@@ -1,4 +1,3 @@
-/* Основные стили для страницы */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -17,7 +16,6 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Стили для формы */
 form {
     background-color: #fff;
     padding: 20px;
@@ -28,7 +26,6 @@ form {
     gap: 10px;
 }
 
-/* Стили для поля ввода */
 input[type="text"] {
     padding: 10px;
     font-size: 1rem;
@@ -38,7 +35,6 @@ input[type="text"] {
     max-width: 100%;
 }
 
-/* Стили для кнопки */
 button {
     padding: 10px;
     background-color: #4CAF50;
